@@ -51,7 +51,7 @@ For help, please contact the project maintainers.
 This project is not open for contributions.
 
 ## Authors and Acknowledgment
-Developed by the **Integlee Team**.  
+Developed by the **IntegLee Team**.  
 - Caparas, Joaquin Gabriel
 - Cariño, Mark Lorenz
 - De Mesa, Rovic Louie
